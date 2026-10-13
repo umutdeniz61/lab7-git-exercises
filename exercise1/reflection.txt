@@ -1,0 +1,14 @@
+1. Why did the conflict occur?
+Both branches changed the same lines in the Skills section.
+
+2. What would have prevented this conflict?
+Better communication and updating branches before editing.
+
+3. How do you avoid conflicts on multiple devices?
+I use git pull before working and git push after committing.
+
+4. What was the most challenging part?
+Combining both versions without losing information.
+
+5. How did Git help identify the conflict?
+Git showed conflict markers and highlighted the conflicting lines.

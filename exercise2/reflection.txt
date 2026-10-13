@@ -1,0 +1,14 @@
+1. How many times did you check the temperature?
+I checked it 3 times during the bisect process.
+
+2. How many checks would 100 commits need?
+About 7 checks using binary search.
+
+3. How is bisect different from manually checking commits?
+Git bisect uses binary search, so it is faster than checking every commit manually.
+
+4. When is git bisect useful?
+It is useful when a project has many commits and we need to find which commit introduced a bug.
+
+5. What information is needed to start bisect?
+We need to know one good commit and one bad commit.
